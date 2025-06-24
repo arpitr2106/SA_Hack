@@ -1,4 +1,9 @@
 ## DataHack-Hackathon-by-GFG
+
+<div align="center">
+<img alt="output" src="pictures/gfg.jpeg" />
+</div>
+
 This repository contains the solution for the Hackathon by GeeksforGeeks(GFG) conducted during Summer Analysis, Consulting & Analytics Club, IIT Guwahati. It features an exploratory analysis notebook, a trained model, and the required submission files.
 
 ## 📁 Repository Contents
